@@ -1,5 +1,9 @@
-#hi {
-    color: #fff;
+#logo {
+  color: #fff;
+}
+
+#ll {
+  border-radius: 25px;
 }
 
 body {
@@ -35,7 +39,6 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://content.codecademy.com/projects/make-a-website/lesson-4/jumbotron.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -102,5 +105,7 @@ footer li img {
 }
 
 #header {
-  background-color: aqua;
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  background-size: contain;
 }
